@@ -17,11 +17,11 @@ THIS BOT ONLY NEES YOUR
 #### limitations
 > cloudmersive api provides only 1000 images for free ( per month)
 > solution:
->> just u can create a new account & use the new api which will provides u 2000 images.. etc,etc,etc.. you can create many cloudmersive account as msny as you need..🙄
+>> You can just create a new account & use the new api which will provides u 2000 images.. etc,etc,etc.. you can create many cloudmersive accounts as many as you need..🙄
 
 > another problem is that heroku provides only 550dynos for free (per month)
 >> No one is going to help you..😜😜 
->> you can transfer your heroku account whenever you finished your dyno..😂 or host this bot your own..😁
+>> you can transfer your heroku account whenever your dyno is finished..😂 or host this bot your own..😁
 
 </details>
 ⠀
@@ -29,7 +29,7 @@ THIS BOT ONLY NEES YOUR
 <details>
   <summary> How to deploy this Bot (A Brief Summary) </summary>
   
-I Don't have any time to waste..😒
+I do not have any more time to waste..😒
 Due to some works on other bots..
 
 Just Fork it.. edit your repo at your own risk(if needed) and deploy on heroku.. 
