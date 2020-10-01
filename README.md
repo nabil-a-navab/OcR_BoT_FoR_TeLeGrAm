@@ -36,6 +36,6 @@ Just Fork it.. edit your repo at your own risk(if needed) and deploy on heroku..
 > if u have any doubts or bug msg me on [telegram](t.me/nabilanavab)
 </details>
 
-![](https://telegra.ph/file/58dc9864d6e68e74e817e.jpg)
+![](https://telegra.ph/file/dc3044ee380fad8ad438b.jpg)
 
 
