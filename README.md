@@ -33,7 +33,7 @@ I do not have any more time to waste..😒
 Due to some works on other bots..
 
 Just Fork it.. edit your repo at your own risk(if needed) and deploy on heroku.. 
-> if u have any doubts or bug msg me on [telegram](telegram.dog/nabilanavab)
+> if u have any doubts or bug msg me on [telegram](https://telegram.dog/nabilanavab)
 </details>
 
 ![](https://telegra.ph/file/dc3044ee380fad8ad438b.jpg)
